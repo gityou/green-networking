@@ -12,7 +12,7 @@ Linear programming is a way to solve linear optimization problems. Given a set o
 *   one unique solution
 *   infinitely many solutions (underdetermined)
 
-In underdetermined systems it may be useful to find a *best* solution within this solution space. This would be the *optimal* solution, hence the phrase **linear optimization**.
+In underdetermined systems it may be useful to find a *best* solution within this solution space. This would be the *optimal* solution, hence the phrase *linear optimization*.
 
 ### Example ###
 
