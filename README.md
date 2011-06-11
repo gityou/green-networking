@@ -9,6 +9,7 @@ lp.cpp is a clean interface wrapping the lpsolve linear-program solver.
 Linear programming is a way to solve linear optimization problems. 
 
 Given a set of linear equations (constraints), the solution set can have
+
 *   no solution (overdetermined)
 *   one unique solution
 *   infinitely many solutions (underdetermined)
